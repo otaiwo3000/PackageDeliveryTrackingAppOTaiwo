@@ -1,0 +1,13 @@
+PackageId,Package_Name,Package_Code,Status
+1,pkg01,pkg01,PICKED_UP
+2,pkg02,pkg02,WAREHOUSE
+3,pkg03,pkg03,DELIVERED
+4,pkg04,pkg04,WAREHOUSE
+5,pkg05,pkg05,PICKED_UP
+6,pkg06,pkg06,DELIVERED
+7,pkg07,pkg07,PICKED_UP
+8,pkg10,,DELIVERED
+9,pkg11,,DELIVERED
+10,pkg12,,IN_TRANSIT
+11,pkg13,,WAREHOUSE
+12,pkg15,,WAREHOUSE

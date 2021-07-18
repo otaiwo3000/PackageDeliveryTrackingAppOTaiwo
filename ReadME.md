@@ -5,7 +5,7 @@ This Web Api has two .csv files used as Data Source located in the StoredData fo
 i.		WarehouseRegisteredPackages.csv   : Stores Registered Packages and their Current Status
 ii.		PackageMonitor.csv				  : Keeps hourly records of the individual packages 
 
-DO not open any of the file during testing.
+If the app is to be tested locally as against client-server environment, then, keep the two files closed before testing.
 
 
 ============= Endpoints =======================

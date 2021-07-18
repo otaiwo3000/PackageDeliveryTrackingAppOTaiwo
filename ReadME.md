@@ -38,7 +38,7 @@ http://localhost:52201/api/packages/addpackages
 http://localhost:52201/api/packages/addpackagestatus
 
 
-=============== Sample data to register packages with their respective current status =======================
+=============== Sample data used to register packages with their respective current status =======================
 http://localhost:52201/api/packages/addpackages
 
 [
